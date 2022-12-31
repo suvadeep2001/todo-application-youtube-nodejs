@@ -9,5 +9,5 @@
 ```sh
 git clone https://github.com/suvadeep2001/todo-application-youtube-nodejs.git
 npm i
-nmp start
+npm start
 ```
